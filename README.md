@@ -29,13 +29,5 @@ Our project is built on a solid foundation of synthetic data, inspired by resear
 ## 🔗 **Links**
 - **[Live Demo](http://routero.herokuapp.com)**: See SmartRoute in action!
 - **[Presentation](https://1drv.ms/p/s!AlbLbaPx_OoCnAC3pbRIdt6unRrF?e=Z2dhSu)**: Dive deeper into our project.
-Here’s the modified version including the problem statement:
-
----
-
-# 🌟 **SmartRoute: AI-Powered Route Optimization for Sales Vehicles**
-
-**Problem Statement:**  
-Build a Route Optimization tool that uses AI to generate optimized routes for better traffic control and fuel efficiency in real-time.
 
 
