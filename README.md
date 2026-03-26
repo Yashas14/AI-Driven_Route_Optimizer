@@ -6,7 +6,6 @@
 
 > Transforming logistics with AI, optimization algorithms, and real-time analytics.
 
----
 
 ## 🌍 Overview
 
@@ -18,7 +17,7 @@ It tackles the **Multi-Depot Vehicle Routing Problem (MDVRP)** — one of the ha
 
 > It finds the **most efficient routes** for multiple vehicles across multiple depots — saving **cost, time, and fuel**, while reducing **carbon emissions**.
 
----
+
 
 ## 🔥 Why This Project Stands Out
 
@@ -30,7 +29,7 @@ It tackles the **Multi-Depot Vehicle Routing Problem (MDVRP)** — one of the ha
 * 🌱 **CO₂ Emission Tracking**
 * 🚚 **Multi-depot + multi-vehicle intelligence**
 
----
+
 
 ## 👨‍💻 Team
 
@@ -41,7 +40,7 @@ It tackles the **Multi-Depot Vehicle Routing Problem (MDVRP)** — one of the ha
 
 🏆 Team: **TechTriad**
 
----
+
 
 ## 🧠 Core Intelligence
 
@@ -52,7 +51,7 @@ It tackles the **Multi-Depot Vehicle Routing Problem (MDVRP)** — one of the ha
 * Simulated Annealing (🔥 escape local optima)
 * Genetic Algorithm (🧬 best global solution)
 
----
+
 
 ### 🔹 Machine Learning Layer
 
@@ -60,7 +59,7 @@ It tackles the **Multi-Depot Vehicle Routing Problem (MDVRP)** — one of the ha
 * 📍 Geo-based feature engineering
 * 🔥 Smart clustering with KMeans
 
----
+
 
 ### 🔹 Smart Routing Pipeline
 
@@ -68,7 +67,7 @@ It tackles the **Multi-Depot Vehicle Routing Problem (MDVRP)** — one of the ha
 Input Data → Clustering → Vehicle Allocation → Route Optimization → Analytics Output
 ```
 
----
+
 
 ## ⚙️ System Architecture
 
@@ -91,7 +90,7 @@ SmartRoute Pro
 └── 🧪 Testing Suite (pytest)
 ```
 
----
+
 
 ## 🚀 Key Features
 
@@ -117,7 +116,7 @@ SmartRoute Pro
 * Compare all algorithms in real-time
 * Choose best trade-off between speed & accuracy
 
----
+
 
 ## 🧪 API Capabilities
 
@@ -129,7 +128,7 @@ SmartRoute Pro
 | `/demo`     | Sample dataset                |
 | `/health`   | API status                    |
 
----
+
 
 ## 🧭 How It Works
 
@@ -147,7 +146,7 @@ SmartRoute Pro
 4️⃣ **Route Optimization**
 → Apply TSP algorithm for best path
 
----
+
 
 ## ⚡ Quick Start
 
@@ -165,7 +164,7 @@ python run.py api
 python run.py both
 ```
 
----
+
 
 ## 🐳 Docker Support
 
@@ -173,7 +172,7 @@ python run.py both
 docker compose up --build
 ```
 
----
+
 
 ## 📊 Dashboard Highlights
 
@@ -183,7 +182,7 @@ docker compose up --build
 * 🔍 Algorithm comparison
 * 📥 Export results (CSV/JSON)
 
----
+
 
 ## 🧱 Tech Stack
 
@@ -196,7 +195,7 @@ docker compose up --build
 | Data         | CSV, Geo-coordinates      |
 | Deployment   | Docker                    |
 
----
+
 
 ## 📂 Project Structure
 
@@ -209,7 +208,7 @@ run.py
 Dockerfile
 ```
 
----
+
 
 ## 🧪 Testing
 
@@ -217,7 +216,7 @@ Dockerfile
 pytest tests/ -v
 ```
 
----
+
 
 ## 🌟 Real-World Applications
 
@@ -227,7 +226,7 @@ pytest tests/ -v
 * 🌍 Smart City Planning
 * 🚛 Fleet Management Systems
 
----
+
 
 ## 📈 Future Enhancements
 
@@ -236,14 +235,14 @@ pytest tests/ -v
 * 🤖 Reinforcement Learning optimization
 * ☁️ Cloud deployment (AWS/GCP)
 
----
+
 
 ## 📜 License
 
 MIT License © 2025
 **Yashas D & M Shivani Kashyap**
 
----
+
 
 ## ⭐ Final Note
 
@@ -251,4 +250,4 @@ MIT License © 2025
 > it's a **complete AI-powered logistics system** combining
 > **optimization, machine learning, and real-world impact**.
 
----
+
