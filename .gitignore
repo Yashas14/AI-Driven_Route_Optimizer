@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Data artifacts
+*.pkl
+*.joblib
+
+# Old files
+visualization/
+route_generator.py
+route_generator.ipynb
+Procfile
+setup.sh
+colorgen.py
